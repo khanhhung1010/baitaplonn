@@ -204,11 +204,6 @@ body {
 }
 /* ======================== STYLE BẢNG LỊCH SỬ BỆNH ÁN ======================= */
 
-/* .khoi-ls-ba { */
-/* ... (CSS hiện tại của .khoi-ls-ba) ... */
-/* overflow-x: auto; */
-/* Thêm thanh cuộn ngang nếu bảng quá rộng */
-
 .khoi-ls-ba-con {
   padding: 0 20px 20px 20px; /* Thêm đệm xung quanh bảng */
 }
